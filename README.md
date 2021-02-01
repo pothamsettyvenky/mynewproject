@@ -22,3 +22,6 @@ we are the studemts of cse b
  ## stage2:
  ## stage3:commiting
  - git commit -m "add filename"
+## push and pull
+- git push remote name and branch name 
+- git pull remote name branch name
