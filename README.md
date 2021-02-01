@@ -26,6 +26,6 @@ we are the studemts of cse b
 - git push remote name and branch name 
 - git pull remote name branch name
 ## remote
-- git add remote remote name "repo link"
+- git remote add remote name "repo link"
 ## remote status
 -git remote -v 
