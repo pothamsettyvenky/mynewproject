@@ -17,3 +17,8 @@ we are the studemts of cse b
  - converted the files into the tracking area
  -  create a snapshoot by adding into staging area
  - commits the changes with message
+ ## stage 1: tracking the file 
+ - we use git add file name to change to staging area
+ ## stage2:
+ ## stage3:commiting
+ - git commit -m "add filename"
