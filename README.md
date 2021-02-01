@@ -13,4 +13,7 @@ we are the studemts of cse b
  - python file name(executes a .py file)
  - mv odl new(changes the file name)
  - rmdir(remove the directory)
- - 
+ ## the three stages to upload a file into git
+ - converted the files into the tracking are
+ -  create a snapshoot by adding into staging area
+ - commits the changes with message
