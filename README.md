@@ -13,3 +13,4 @@ we are the studemts of cse b
  - python file name(executes a .py file)
  - mv odl new(changes the file name)
  - rmdir(remove the directory)
+ - 
