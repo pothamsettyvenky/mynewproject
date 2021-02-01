@@ -29,3 +29,5 @@ we are the studemts of cse b
 - git remote add remote name "repo link"
 ## remote status
 -git remote -v 
+## cloning existing repository
+- git clone "repo link " foldername
