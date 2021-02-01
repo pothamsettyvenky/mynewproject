@@ -31,3 +31,7 @@ we are the studemts of cse b
 -git remote -v 
 ## cloning existing repository
 - git clone "repo link " foldername
+## for restore the files
+- git restore file name (uncommited changes)
+-git revert id (commited changes)
+- git reset id (reseting commited)
